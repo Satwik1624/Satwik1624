@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi, I'm Satwik Gupta </h1>
 <h3 align = "center"> Currently pursuing B. Tech in CSIT Branch at ITER, SOA University 🎓<h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik1624&label=Profile%20views&color=89BFFF&style=flat" alt="kaal-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik1624&label=Profile%20views&color=89BFFF&style=flat" alt="Satwik1624" /> </p>
 
 - 🔭 I'm trying to learn and do better 
 
