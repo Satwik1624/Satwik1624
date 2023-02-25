@@ -23,5 +23,5 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/express/" target="_blank" rel="noreferrer"> <img src = "https://express.adobe.com/images/rebrand-app-icons/cc_express_appicon_64.svg" alt="adobe express" width = "30" height= "30"/></a>
 
-<h1 align = "center"> I'm working on myself more everyday, hoping to add more and more things here. </h1>
+<h1 align = "center"> I'm working on myself more everyday and hoping to add more and more things here. </h1>
 <h3 align = "center"> Thank you! </h3>
