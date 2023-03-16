@@ -6,6 +6,8 @@
 - 🔭 I'm trying to learn and do better 
 
 - 🧑🏼‍💻 I’m currently learning **Web Development**
+ 
+- 🫱🏼‍🫲🏼 I’m looking to collaborate on Beginner level projects.
 
 - 📧 You can reach me on **satwikgupta1016@gmail.com**
 
