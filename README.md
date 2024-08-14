@@ -1,13 +1,13 @@
 <h1 align = "center"> Hi, I'm Satwik Gupta </h1>
-<h3 align = "center"> Currently pursuing B. Tech in CSIT Branch at ITER, SOA University 🎓<h3>
+<h3 align = "center"> Graduated B. Tech in CSIT Branch at ITER, SOA University 🎓 in 2024 <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik1624&label=Profile%20views&color=89BFFF&style=flat" alt="Satwik1624" /> </p>
 
 - 🔭 I'm trying to learn and do better 
 
-- 🧑🏼‍💻 I’m currently learning **Web Development**
+- 🧑🏼‍💻 I’m a passionate **Web Development**
  
-- 🫱🏼‍🫲🏼 I’m looking to collaborate on Beginner level projects.
+- 🫱🏼‍🫲🏼 I’m looking to collaborate on projects.
 
 - 📧 You can reach me on **satwikgupta1016@gmail.com**
 
