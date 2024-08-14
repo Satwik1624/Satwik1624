@@ -5,7 +5,7 @@
 
 - 🔭 I'm trying to learn and do better 
 
-- 🧑🏼‍💻 I’m a passionate **Web Development**
+- 🧑🏼‍💻 I’m a passionate **Web Developer**
  
 - 🫱🏼‍🫲🏼 I’m looking to collaborate on projects.
 
